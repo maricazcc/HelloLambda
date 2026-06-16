@@ -1,0 +1,2 @@
+# HelloLambda
+Esercizio AWS Lambda.
